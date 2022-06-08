@@ -11,7 +11,9 @@
 
 ## Features
 
-The possible modifications of G-Code include:
+This "MATRIX Agent":
+- has three distinct kinds of behavioral modes depending on the environment:
+  - alone mode: it enters this setting it does not receive any identifiable message
 
 ## Tools
 
@@ -58,3 +60,7 @@ Lastly, check that the new environment was installed correctly:
 ## Licence
 
 The "MATRIX Agent" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
+
+## References
+
+The base image for the logo was taken from the [official MATRIX website](https://matrx-software.com/wp-content/uploads/2020/02/matrx_logo.svg). 
