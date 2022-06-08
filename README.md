@@ -1,31 +1,27 @@
-<img src=img/gcode_modifier_logo.JPG alt="G-Code Modifier Logo" width="121" height="128">
+<img src=img/matrix_agent_logo.JPG alt="MATRIX Agent Logo" width="265" height="136">
 
 --------------------------------------------------------------------------------
-[![MIT-License](https://img.shields.io/github/license/johanneshagspiel/gcode-modifier)](LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/gcode-viewer)](https://github.com/johanneshagspiel/gcode-viewer)
-[![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/gcode-modifier)](https://github.com/johanneshagspiel/gcode-modifier/releases/)
+[![MIT-License](https://img.shields.io/github/license/johanneshagspiel/matrix-agent)](LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/matrix-agent)](https://github.com/johanneshagspiel/matrix-agent)
+[![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/matrix-agent)](https://github.com/johanneshagspiel/matrix-agent/releases/)
 
-# G-Code Modifier
+# MATRIX Agent
 
-"G-Code Modifier" is desktop application created in order to support the 3D printing of sustainable materials via extrusion through a syringe. 
-Such a 3D printing process posses unique problems that either can not be addressed at all with popular 3D printer slicing applications like [Cura](https://ultimaker.com/software/ultimaker-cura) or only in a very cumbersome manner.
-The "G-Code Modifier" itself, however, can not slice a model into G-Code as it instead modifies existing G-Code. 
+"MATRIX Agent" is a collaborative agents that can autonomously cooperate with other agents to complete tasks in a joint-activity environment known as [Blocks World for Teams](https://www.matrx-software.com/docs/tutorials/building-a-block-world/block-worlds-for-teams/). 
 
 ## Features
 
 The possible modifications of G-Code include:
 
-
 ## Tools
 
-| Purpose                | Name                                                         |
-|------------------------|--------------------------------------------------------------|
-| Programming language   | [Python](https://www.python.org/)                            |
-| Dependency manager     | [Anaconda](https://www.anaconda.com/products/distribution)   |
-| Version control system | [Git](https://git-scm.com/)                                  |
-| Testing framework      | [unittest](https://docs.python.org/3/library/unittest.html/) |
-| Application Bundler    | [PyInstaller](https://pyinstaller.org/en/stable/index.html/) |
-| GUI Framework 		 | [PyQt5](https://www.riverbankcomputing.com/software/pyqt/)   |
+| Purpose                | Name                                                           |
+|------------------------|----------------------------------------------------------------|
+| Programming language   | [Python](https://www.python.org/)                              |
+| Dependency manager     | [Anaconda](https://www.anaconda.com/products/distribution)     |
+| Version control system | [Git](https://git-scm.com/)                                    |
+| Application Bundler    | [MATRIX](http://docs.matrx-software.com/en/master/index.html/) |
+
 
 ## Installation Process
 
@@ -61,4 +57,4 @@ Lastly, check that the new environment was installed correctly:
 
 ## Licence
 
-The G-Code Modifier is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file.
+The "MATRIX Agent" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
