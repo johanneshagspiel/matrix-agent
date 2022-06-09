@@ -7,7 +7,7 @@
 
 # MATRX Agent
 
-"MATRX Agent" is a collaborative agent that can autonomously cooperate with other agents to complete tasks in a joint-activity environment known as [Blocks World for Teams (BW4T)](https://www.matrx-software.com/docs/tutorials/building-a-block-world/block-worlds-for-teams/). A world in BW4T consists of multiple rooms that contain blocks of different shapes and colors which have to be dropped off at a particular location in a particular order. An agent in BW4T can be shape- or colorblind which necessitates the agents communicating amongst themselves the information that they have obtained.
+"MATRX Agent" is a collaborative agent that can autonomously cooperate with other agents to complete tasks in a joint-activity environment known as [Blocks World for Teams (BW4T)](https://www.matrx-software.com/docs/tutorials/building-a-block-world/block-worlds-for-teams/). A world in BW4T consists of multiple rooms that contain blocks of different shapes and colors which have to be dropped off at a particular location in a particular order. An agent in BW4T can be shape- or colorblind which necessitates the agents communicating amongst themselves the information that they have obtained as well as an agreed-upon way to determine who picks up which block.
 
 ## Features
 
