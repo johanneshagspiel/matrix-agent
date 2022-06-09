@@ -15,7 +15,7 @@ This "MATRX Agent":
 
 - has three distinct kinds of behavioral modes depending on the environment that all have implemented the entire behavior necessary for an arbitrary number of fully as well as partially capable agents to finish one whole iteration of the MATRX world such as:
   - solitary mode which occurs when the agent does not receive any identifiable message from the other agents in the world
-  - cluster mode whih occurs when the agent receives more cluster_mode protocol messages than group_mode protocol messages. A cluster of agents includes agents made by other individuals that communicate via the dedicated cluster message system. 
+  - cluster mode which occurs when the agent receives more cluster_mode protocol messages than group_mode protocol messages. A cluster of agents includes agents made by other individuals that communicate via the dedicated cluster message system. 
   - group mode which occurs when the agent receives more group_mode protocol messages than cluster_mode protocol messages. A group of agents includes only other "MATRIX Agents" that communicate via the dedicated group message system.
 - can operate in even the most complex of environments that exist in BW4T such as situations where the agent is alone and has to pick up more than three items. The agent is aware of its inventory limit and thus drops off blocks to the left of the appropriate drop location.
 - can explore rooms of an arbitrary size as it uses the actual size of a room to determine the appropriate exploration pattern   
