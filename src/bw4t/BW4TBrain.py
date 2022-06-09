@@ -2,7 +2,7 @@ from abc import  ABC, abstractmethod
 from matrx.agents.agent_utils.state import State # type: ignore
 from matrx.agents import AgentBrain # type: ignore
 from matrx.actions.object_actions import DropObject # type: ignore
-from typing import final, List, Dict, Final, Set
+from typing import List, Dict, Final, Set, Final, final
 from matrx.messages import Message # type: ignore
 import traceback 
 
