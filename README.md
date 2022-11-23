@@ -27,7 +27,7 @@ This "MATRX Agent":
 | Programming language   | [Python](https://www.python.org/)                              |
 | Dependency manager     | [Virtualenv](https://virtualenv.pypa.io/en/latest/index.html)     |
 | Version control system | [Git](https://git-scm.com/)                                    |
-| Agent framework    | [MATRX](http://docs.matrx-software.com/en/master/index.html/) |
+| Agent framework    | [MATRX](http://docs.matrx-software.com/en/master/) |
 
 
 ## Installation Process
